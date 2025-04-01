@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ico/app.ico</file>
+        <file>ico/update_codes.ico</file>
+        <file>ico/update_image.ico</file>
+    </qresource>
+</RCC>
