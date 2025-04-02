@@ -47,8 +47,10 @@ sudo cmake --install .
 
 ## 2.2 Python版本
 
-依赖： pyside6; pyinstaller
+依赖： pyside6; pyinstaller(打包时)
 
-Windwos需要执行`build_exe.bat`打包生成exe文件。Linux需要执行`build_elf.sh`生成可执行文件
+Windwos需要执行`build_exe.bat`打包生成exe文件。
+
+Linux需要执行`sh build_elf.sh`命令生成可执行文件。
 
 ---
