@@ -13,7 +13,7 @@ For frequent Markdown users, image storage has always been a challenge. Markdown
 
 ortunately, Markdown supports image rendering via Base64 encoding. This tool [Image2Base64](https://github.com/AndrewMoa2005/Image2Base64) simplifies conversions between image files and Base64 encoding.
 
-## 1. 软件功能
+## 1. Features
 
 Below is the graphical interface of the software (this screenshot uses Base64 rendering and may not display properly on GitHub):
 
